@@ -53,7 +53,7 @@ MemVerge for the original MemMachine framework: https://www.linkedin.com/company
 Hackathon mentors and organizers
 
 Original Team Members:
-Ariel Stern
+Ariel Stern,
 Simone Genesis Gonzalez
 
 Any contributors
