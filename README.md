@@ -1,27 +1,15 @@
-# FashionIcon-Assistant-
+# FashionIcon-Assistant
 
- 🚀 Overview
-We aim to build an assistant that works alongside MemMachine to 
+ 🚀 Overview: 
+ 
+We aim to build an assistant that works alongside MemMachine and utilizes MemMachine's profile memory mechanisms and rest API to better your online shopping experience.  Our trained model is programmed to find your size, weight, color preferences etc.
+For example, if you were to input your weight, our model will find the right sizes for you so you can browse through the vast online fashion market easier.  Our assistant will make online shopping also less of a time chunk for you.
 
-prfile mechanism 
-rest api 
-help people who are too busy to find their size, browse through their usual online fashion market
-no one goes to the mall anymore
-they shop online; this assistant will make it easier
-time consuming-this assitant gets rid of that time chunk 
-inout their wieght-clicks to right size
-trained model to find your size
+Think of our AI assistant as your digital stylist outside the changing room ready to offer feedback, remember your choices, and help you find your best fit!
 
-think of this as a computerized outside the mall 
-u can still do in person 
+Shopping in person can still be done and encouraged but...how many people out there need the ultimate fashion assistant? We got it.
 
-the ultimate fashion assitant
-so many people need that 
-
-
-
-
-Example:  
+ 
 This project builds on **MemMachine**, an open-source AI memory framework by MemVerge.  
 https://memmachine.ai/ 
 
@@ -34,8 +22,6 @@ https://memmachine.ai/
 
 
 🧩 Tech Stack: tools, frameworks, and languages being used
-
-Example:
 - Python 
 - React
 - Javascript
@@ -46,7 +32,7 @@ Example:
 
 Acknowledgments: 
 
-MemVerge for the original MemMachine framework
+MemVerge for the original MemMachine framework: https://www.linkedin.com/company/memverge/about/
 
 Hackathon mentors and organizers
 
