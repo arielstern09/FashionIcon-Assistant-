@@ -9,7 +9,7 @@ Think of our AI assistant as your digital stylist outside the changing room read
 
 Shopping in person can still be done and encouraged but...how many people out there need the ultimate fashion assistant? We got it.
 
-Example:  
+ 
 This project builds on **MemMachine**, an open-source AI memory framework by MemVerge.  
 https://memmachine.ai/ 
 
@@ -22,8 +22,6 @@ https://memmachine.ai/
 
 
 🧩 Tech Stack: tools, frameworks, and languages being used
-
-Example:
 - Python 
 - React
 - Javascript
