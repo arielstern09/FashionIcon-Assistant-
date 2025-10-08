@@ -32,7 +32,7 @@ Output: a full outfit (with accessories + shoes) generated in seconds from your 
 Our AI Assitant remembers every outfit you’ve worn and when so you never repeat a look unintentionally (especially for social media or events).
 “Last wore this on Sept 15 to a concert — maybe switch the jacket!”
 
-8. One-Minute Packing Assistant
+📦3. One-Minute Packing Assistant
 You need outfits for your next vacation! Type in yout trip length + destination + vibe and it builds a full list of outfits for each day.
 Saves hours before travel and reduces overpacking!
 
