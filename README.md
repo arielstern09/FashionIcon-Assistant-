@@ -2,8 +2,8 @@
 
  🚀 Overview: 
  
-We aim to build an assistant that works alongside MemMachine and utilizes MemMachine's profile memory mechanisms and rest API to better your online shopping experience.  Our trained model is trained to find your size.
-For example, if you were to input your weight, our model will find the right sizes for you so you can browse through their usual online fashion market easier.  Our assistant will make online shopping also less of a time chunk for you.
+We aim to build an assistant that works alongside MemMachine and utilizes MemMachine's profile memory mechanisms and rest API to better your online shopping experience.  Our trained model is programmed to find your size, weight, color preferences etc.
+For example, if you were to input your weight, our model will find the right sizes for you so you can browse through the vast online fashion market easier.  Our assistant will make online shopping also less of a time chunk for you.
 
 Think of our AI assistant as your digital stylist outside the changing room ready to offer feedback, remember your choices, and help you find your best fit!
 
