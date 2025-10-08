@@ -20,8 +20,7 @@ For example: “Find me the jacket from that Dua Lipa music video.”
 You upload or tag a scene from a movie or concert — the AI finds similar clothes and tells you which brands carry them now.
 For example: “Find me the jacket from that Dua Lipa music video.”
 
-- Cyber Closet Security: uses image recognition + encryption to privately store and secure your wardrobe data which links with online shopping accounts.
-- Custom pink theme for a playful and modern look
+💻Cyber Closet Security: uses image recognition + encryption to privately store and secure your wardrobe data which links with online shopping accounts.
 
 ⚡ 1. Outfit Generator
 “Tell it: ‘Dinner with friends, 70°F, casual but cute,’ 
