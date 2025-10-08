@@ -11,7 +11,7 @@ inout their wieght-clicks to right size
 trained model to find your size
 
 You can think of our AI assistant as a computerized outside the mall 
-Shopping in person is u can still do in person 
+Shopping in person can still be done and encouraged but...
 
 How many people out there need the ultimate fashion assistant? We got it.
 
