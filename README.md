@@ -1,6 +1,7 @@
 # FashionIcon-Assistant
 
  🚀 Overview: 
+ 
 We aim to build an assistant that works alongside MemMachine and utilizes MemMachine's profile memory mechanisms and rest API to better your online shopping experience.  
 help people who are too busy to find their size, browse through their usual online fashion market
 no one goes to the mall anymore
