@@ -1,10 +1,7 @@
-# FashionIcon-Assistant-
+# FashionIcon-Assistant
 
  🚀 Overview
-We aim to build an assistant that works alongside MemMachine to 
-
-prfile mechanism 
-rest api 
+We aim to build an assistant that works alongside MemMachine and utilizes MemMachine's profile memory mechanisms and rest API to better your online shopping experience.  
 help people who are too busy to find their size, browse through their usual online fashion market
 no one goes to the mall anymore
 they shop online; this assistant will make it easier
@@ -12,13 +9,10 @@ time consuming-this assitant gets rid of that time chunk
 inout their wieght-clicks to right size
 trained model to find your size
 
-think of this as a computerized outside the mall 
-u can still do in person 
+You can think of our AI assistant as a computerized outside the mall 
+Shopping in person is u can still do in person 
 
-the ultimate fashion assitant
-so many people need that 
-
-
+How many people out there need the ultimate fashion assistant? We got it.
 
 
 Example:  
