@@ -5,11 +5,9 @@
 We aim to build an assistant that works alongside MemMachine and utilizes MemMachine's profile memory mechanisms and rest API to better your online shopping experience.  Our trained model is trained to find your size.
 For example, if you were to input your weight, our model will find the right sizes for you so you can browse through their usual online fashion market easier.  Our assistant will make online shopping also less of a time chunk for you.
 
-You can think of our AI assistant as a computerized outside the mall 
-Shopping in person can still be done and encouraged but...
+Think of our AI assistant as your digital stylist outside the changing room ready to offer feedback, remember your choices, and help you find your best fit!
 
-How many people out there need the ultimate fashion assistant? We got it.
-
+Shopping in person can still be done and encouraged but...how many people out there need the ultimate fashion assistant? We got it.
 
 Example:  
 This project builds on **MemMachine**, an open-source AI memory framework by MemVerge.  
