@@ -13,6 +13,8 @@ Shopping in person can still be done and encouraged but...how many people out th
 This project builds on **MemMachine**, an open-source AI memory framework by MemVerge.  
 https://memmachine.ai/ 
 
+Main Feature-Memeverge Hackathon
+Enter your mood, event, and weather choices and our AI Fashion Assistant will provide a response!
 
 💡 Features (eventually)
 -Shop the Scene: 
