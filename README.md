@@ -14,7 +14,7 @@ This project builds on **MemMachine**, an open-source AI memory framework by Mem
 https://memmachine.ai/ 
 
 
-💡 Features
+💡 Features (eventually)
 -Shop the Scene: 
 For example: “Find me the jacket from that Dua Lipa music video.”
 You upload or tag a scene from a movie or concert — the AI finds similar clothes and tells you which brands carry them now.
