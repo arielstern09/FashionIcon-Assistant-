@@ -3,6 +3,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import random
+from dotenv import load_dotenv
+load_dotenv()
 
 # Initialize FastAPI app
 app = FastAPI(

@@ -6,7 +6,7 @@ Output:  Full outfit recommendation (top, bottom, shoes, accessories, and style 
 """
 
 import random
-import FastAPI
+import fastapi
 
 def generate_outfit(event, weather, mood):
     if "dinner" in event.lower():
