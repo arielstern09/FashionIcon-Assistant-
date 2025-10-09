@@ -17,7 +17,7 @@ https://memmachine.ai/
 
 Enter your mood, event, and weather choices and our AI Fashion Assistant will provide a response!
 
-💡 Features (eventually)
+💗Features (eventually)💗
 -Shop the Scene: 
 For example: “Find me the jacket from that Dua Lipa music video.”
 You upload or tag a scene from a movie or concert — the AI finds similar clothes and tells you which brands carry them now.
