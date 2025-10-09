@@ -58,6 +58,7 @@ Saves hours before travel and reduces overpacking!
 Acknowledgments: 
 
 MemVerge for the original MemMachine framework: https://www.linkedin.com/company/memverge/about/
+
 This project builds on **MemMachine**, an open-source AI memory framework by MemVerge.  
 https://memmachine.ai/ 
 
