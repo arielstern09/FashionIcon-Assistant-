@@ -9,6 +9,46 @@ For example, if you were shopping online and placed in your weight, our model wi
 
 Shopping in person can still be done and encouraged but...how many people out there need the ultimate fashion assistant? We got it.
 
+💛For MemMachine Team:💛
+a. The problem statement: A user needs to know what to wear for a specific event, adjust to the weather of the day, and consider their mood/how they feel!
+
+
+
+b. How MemMachine is being used: We used and edited some python files from the MemMachine Github page.  
+MemMachine’s flexible setup makes it possible to:
+
+🚀 Quickly launch and test the FastAPI backend (app.py)
+
+🧩 Experiment with AI-driven features using the OpenAI API
+
+🔄 Collaborate and debug in an integrated environment
+
+💬 Demo the chatbot’s responses seamlessly for presentation or user testing
+
+In short, MemMachine powers both the development and demonstration of the Fashion Icon Assistant, enabling smooth iteration and showcasing how AI and fashion creativity can come together in a single intelligent app.
+
+
+
+c. An example chat: Watch our demo! 
+(if you have a chatbot)/ workflow/ script (if you don't have a frontend UI)
+Optional but recommended: Feedback on MemMachine (painpoints, ease of use, value addition, improvement suggestions, feature requests etc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 💙Main Feature-Memeverge Hackathon💙
 
