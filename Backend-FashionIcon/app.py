@@ -6,7 +6,7 @@ from pydantic import BaseModel
 import openai # Corrected import to get access to openai.APIError
 import requests 
 import uuid # Needed to generate a unique session ID for MemMachine
-import requests
+import json # Used for parsing the MemMachine JSON response
 
 # Load environment variables from .env file
 load_dotenv() 
