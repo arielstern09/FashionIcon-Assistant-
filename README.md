@@ -11,7 +11,7 @@ We’re **Ariel and Simone**, and we’re so excited to share what we’ve built
 
 Our submission is **FashionIcon Assistant**, an AI fashion companion designed to work seamlessly with **MemMachine’s profile memory system** and REST API to elevate your online shopping experience.
 
-This assistant isn’t just smart — it’s stylish. Over time, it learns about your **size, color preferences, body type, and fashion mood**, providing curated outfit recommendations and streamlining how you shop online.
+This assistant isn’t just smart.  It’s stylish! Over time, it learns about your **size, color preferences, body type, and fashion mood**, providing curated outfit recommendations and streamlining how you shop online.
 
 Imagine an AI stylist who:
 ✨ Remembers your outfits and preferences
