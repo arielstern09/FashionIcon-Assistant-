@@ -1,21 +1,27 @@
 # FashionIcon-Assistant
 
  🚀 Overview: 
+ Hello! If you're reading this, you must be on the Memverge team! Hi it's Ariel and Simone! Thank you for the opportunity for us to meet and build this great project! We've learned a lot while having fun!
  
-We aim to build an assistant that works alongside MemMachine and utilizes MemMachine's profile memory mechanisms and rest API to better your online shopping experience.  Our trained model is programmed to find your size, weight, color preferences etc.
-For example, if you were to input your weight, our model will find the right sizes for you so you can browse through the vast online fashion market easier.  Our assistant will make online shopping also less of a time chunk for you.
+Our submission is our FashionIcon Assistant AI.  We aim to build an assistant that works alongside MemMachine and utilizes MemMachine's profile memory mechanisms and rest API to better anyone's online shopping experience.  Our trained model is created with python and other tools to give you a response based on some input you give it.   Over time, we want the AI to be programmed to find people's size, weight, color preferences etc.  There's so much to consider when shopping!
 
-Think of our AI assistant as your digital stylist outside the changing room ready to offer feedback, remember your choices, and help you find your best fit!
+For example, if you were shopping online and placed in your weight, our model will find the right sizes for you so you can browse through the vast online fashion market easier.  Another goal is to make less of a time chunk for people.  We think this can really help people!  Additionally, you can think of our AI assistant as your own personal digital stylist outside the changing room ready to offer feedback, remember your choices, and help you find your best fit!
 
 Shopping in person can still be done and encouraged but...how many people out there need the ultimate fashion assistant? We got it.
 
  
-This project builds on **MemMachine**, an open-source AI memory framework by MemVerge.  
-https://memmachine.ai/ 
-
 💙Main Feature-Memeverge Hackathon💙
 
 Enter your mood, event, and weather choices and our AI Fashion Assistant will provide a response!
+
+For example:
+AI Outfit Inputs:
+Mood: Happy
+Event: Birthday
+Weather: Hot and Sunny 
+
+Outfit Result:
+"Wear a pair of shorts for your sunny day ahead.  Throw on a "
 
 💗Features (eventually)💗
 -Shop the Scene: 
@@ -52,6 +58,8 @@ Saves hours before travel and reduces overpacking!
 Acknowledgments: 
 
 MemVerge for the original MemMachine framework: https://www.linkedin.com/company/memverge/about/
+This project builds on **MemMachine**, an open-source AI memory framework by MemVerge.  
+https://memmachine.ai/ 
 
 Hackathon mentors and organizers
 
