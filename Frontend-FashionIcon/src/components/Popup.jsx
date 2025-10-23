@@ -1,6 +1,6 @@
 import { useState } from "react"
 
-const OUTFIT_API_URL = "http://0.0.0.0:8080/generate-outfit"
+const OUTFIT_API_URL = "http://0.0.0.0:8000/generate-outfit"
 
 const parseMarkdownOutput = (markdown) => {
   if (!markdown) return null

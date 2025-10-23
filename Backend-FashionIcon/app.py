@@ -14,7 +14,7 @@ load_dotenv()
 # --- API Key Setup ---
 api_key = os.getenv("OPENAI_API_KEY") 
 # We are removing the explicit MemMachine API Key requirement to simplify testing.
-MEMMACHINE_API_BASE = os.getenv("MEMMACHINE_API_BASE", "http://localhost:8081") # Base URL for your MemMachine instance
+MEMMACHINE_API_BASE = os.getenv("MEMMACHINE_API_BASE", "http://localhost:8080") # Base URL for your MemMachine instance
 
 # --- Test IDs (Replace with your own user/agent IDs in production) ---
 FASHION_USER_ID = "profile_user_001" 
