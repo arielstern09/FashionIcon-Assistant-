@@ -1,4 +1,3 @@
-
 import { useState } from "react"
 import Popup from "./components/Popup.jsx"
 import UserProfile from "./components/UserProflie.jsx"
@@ -22,6 +21,7 @@ const createSessionPayload = () => ({
 
 function App() {
   const [currentView, setCurrentView] = useState("profile") // 'profile' or 'generator'
+  const [refreshTrigger, setRefreshTrigger] = useState(0) // Used to trigger refresh in UserProfile
 
   // Fetch history from MemMachine
   const fetchHistory = async () => {
@@ -49,7 +49,7 @@ function App() {
       const payload = {
         session: createSessionPayload(),
         query: "Show all outfit recommendations",
-        limit: 20
+        limit: 100 // Increased from 20 to 100
       }
 
       const response = await fetch(`${API_ROOT}/api/memories/search`, {
@@ -125,6 +125,10 @@ function App() {
       }
 
       const result = await response.json()
+      
+      // Trigger refresh when memory is posted successfully
+      setRefreshTrigger(prev => prev + 1)
+      
       return { success: true, data: result }
     } catch (error) {
       console.error("Failed to post memory:", error)
@@ -206,9 +210,13 @@ function App() {
       {/* Content */}
       <div className="flex items-center justify-center">
         {currentView === "profile" ? (
-          <UserProfile fetchHistory={fetchHistory} />
+          <UserProfile fetchHistory={fetchHistory} refreshTrigger={refreshTrigger} />
         ) : (
-          <Popup postMemory={postMemory} searchMemory={searchMemory} />
+          <Popup 
+            postMemory={postMemory} 
+            searchMemory={searchMemory}
+            onOutfitGenerated={() => setRefreshTrigger(prev => prev + 1)}
+          />
         )}
       </div>
     </div>

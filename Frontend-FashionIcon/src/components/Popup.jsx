@@ -1,6 +1,7 @@
 import { useState } from "react"
 
-const OUTFIT_API_URL = "http://0.0.0.0:8000/generate-outfit"
+// Use localhost instead of 0.0.0.0 for browser compatibility
+const OUTFIT_API_URL = "http://localhost:8000/generate-outfit"
 
 const parseMarkdownOutput = (markdown) => {
   if (!markdown) return null
@@ -79,7 +80,7 @@ const parseMarkdownOutput = (markdown) => {
     .filter(Boolean)
 }
 
-const Popup = () => {
+const Popup = ({ onOutfitGenerated }) => {
   const [outfitInputs, setOutfitInputs] = useState({
     event: "",
     weather: "",
@@ -115,6 +116,11 @@ const Popup = () => {
 
       const data = await response.json()
       setOutfitResult(data.outfit)
+      
+      // Notify parent that outfit was generated (triggers refresh)
+      if (onOutfitGenerated) {
+        onOutfitGenerated()
+      }
     } catch (error) {
       console.error("Error calling outfit API:", error)
       setOutfitResult(
