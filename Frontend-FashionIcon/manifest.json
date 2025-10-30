@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Fashion Icon Assistant",
+    "version": "1.0.0",
+    "description": "AI-powered fashion outfit generator with profile memory logs",
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Fashion Icon Assistant"
+    },
+    "background": {
+      "service_worker": "service-worker.js"
+    },
+    "permissions": ["storage"],
+    "host_permissions": [
+        "http://0.0.0.0:8000/*",
+        "http://0.0.0.0:8080/*"
+      ],
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
